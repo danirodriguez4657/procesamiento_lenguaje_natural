@@ -23,4 +23,4 @@ Python · scikit-learn · NLTK · Gensim · Matplotlib
 
 ## Autor
 
-Daniela Rodríguez — [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+Daniela Rodríguez — [LinkedIn](https://www.linkedin.com/in/daniela-rodr%C3%ADguez-data-science-bi2004)
